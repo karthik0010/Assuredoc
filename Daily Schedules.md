@@ -1,6 +1,6 @@
  # Daily Schedules
  
- ## In AssureQA, we can schedule flows to run daily at multiple times. Let's explore how to set this up.
+ ### In AssureQA, we can schedule flows to run daily at multiple times. Let's explore how to set this up.
 
 1. Create a Schedule by providing Schedule name in *Flow Schedule* page 
 
