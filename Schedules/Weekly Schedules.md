@@ -1,5 +1,5 @@
 # Weekly Schedules
-## Run test on a weekly basis
+### Run test on a weekly basis
 
 
 ### Let’s check how the Scheduled flow works on weekly basis.
@@ -40,6 +40,6 @@
 
  After clicking the update button, the scheduled time for the weekly run is saved. Consequently, the test run will automatically execute on the specified day at the designated time.
 
- The Weekly Scheduled flow can be accessed in **Flow Schedules** page  
+ The Weekly Scheduled flow can be accessed in **Flow Schedules** page
 
- ### Now lets move on to Monthly Schedules
+Now lets move on to **Monthly Schedules**
