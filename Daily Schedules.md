@@ -15,7 +15,7 @@
 
 ![D 2.4](/images/D%202.4.png)
 
-4. Add the flow to bed scheduled by clicking **Add Flow** button and Selecting the Flow.
+4. Add the flow to be scheduled by clicking **Add Flow** button and Selecting the Flow.
 
 ![D 2.5](/images/D%202.5.png)
 
