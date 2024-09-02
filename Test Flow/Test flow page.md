@@ -1,6 +1,6 @@
 ﻿
 
-#**Test Flow** 
+# **Test Flow** 
 
 The Test Flow in AssureQA allows you to plan and organize the testing process according to your preferences.
 
