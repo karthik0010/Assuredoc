@@ -1,6 +1,6 @@
 # Flow schedules
 
-When you click on Flow Schedule, you will be able to find all the created Schedule 
+When you click on **Flow Schedule**, you can view all the schedules that have been created.
 
 ![FS 1](/images/FS%201.png)
 
@@ -26,9 +26,9 @@ To modify details in an existing schedule, simply click on the name of the sched
 
 ![FS 5](/images/FS%205.png)
 
-If you wish to delete or update the Schedule the Schedule name, Click on the three dots and select the required function
+If you wish to delete or update the Schedule name, Click on the three dots and select the required function
 
 ![FS 6](/images/FS%206.png)
 
-All the schedules which are active will be Executed on the Specified time and can be accesed in **Schedule Report** page
+All the schedules which are active will be Executed on the Specified time and can be accesed in **Schedule Reports** page
 

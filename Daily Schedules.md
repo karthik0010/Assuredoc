@@ -10,8 +10,14 @@
 
 3. Click on the '**+**' and Add the Required time 
 
+<br>
 
-> **INFO** We can Schedule the same Flow multiple times in a day using the '**+**' option. 
+ > [!TIP] 
+ > We can Schedule the same Flow multiple times in a day using the '**+**' option. 
+
+<br>
+
+
 
 ![D 2.4](/images/D%202.4.png)
 
