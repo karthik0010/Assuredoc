@@ -8,7 +8,7 @@ When you click on **Flow Schedule**, you can view all the schedules that have be
 
 The total number of flows listed in a Schedule can be seen under the **Total Flows** column
 
-[FS 2](/images/FS%202.png)
+![FS 2](/images/FS%202.png)
 
 ### Enable / Disable a Schedule
 

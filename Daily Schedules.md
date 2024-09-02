@@ -6,9 +6,9 @@
 
 2. Select **Daily** from the Dropdown
 
-![D 2.3](/images/D%202.3.png)
+![DS 1](/images/DS%201.jpg)
 
-3. Click on the '**+**' and Add the Required time 
+3. Click on the '**+**' 
 
 <br>
 
@@ -19,14 +19,22 @@
 
 
 
-![D 2.4](/images/D%202.4.png)
+![DS 2](/images/DS%202.jpg)
 
-4. Add the flow to be scheduled by clicking **Add Flow** button and Selecting the Flow.
+- Add the Required time
 
-![D 2.5](/images/D%202.5.png)
+![DS 3](/images/DS%203.jpg)
+
+4. Add the flow to be scheduled by clicking **Add Flow** button 
+
+![DS 4](/images/DS%204.jpg)
+
+- Select the Flow 
+
+![DS 5](/images/DS%205.jpg)
 
 5. Click on **Update** button
 
-![D 2.6](/images/D%202.6.png)
+![DS 6](/images/DS%206.jpg)
 
 6. The Scheduled flow can be seen on the [Flow Schedules]() page.

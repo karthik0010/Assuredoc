@@ -6,26 +6,37 @@
 
  1. Select **weekly** from Drop down
 
- ![W 3.1](/images/W%203.1.png)
+ ![WS 1](/images/WS%201.jpg)
 
  2. Select a day from the right side
 
- [[info | **NOTE**:]]
- | Multiple days can be selected for the same Flow
+<br>
+ > [!Tip] 
+ > Multiple days can be selected for the same Flow 
 
- ![W 3.2](/images/W%203.2.png)
+<br>
 
- 3. Click on the '**+**' and Add the required time.
+ ![WS 2](/images/WS%202.jpg)
 
- ![W 3.3](/images/W%203.3.png)
+ 3. Click on the '**+**' button 
 
- 4. Click on **Add Flow** button and Add the Test Flow from the Dropdown
+ ![WS 3](/images/WS%203.jpg)
 
- ![W 3.4](/images/W%203.4.png)
+ - Add the required time.
+
+ ![WS 4](/images/WS%204.jpg)
+
+ 4. Click on **Add Flow** button 
+
+ ![WS 5](/images/WS%205.jpg)
+
+ - Add the Test Flow from the Dropdown
+
+ ![WS 6](/images/WS%206.jpg)
 
  5. Click on **Update** button 
 
- ![W 3.5](/images/W%203.5.png)
+ ![WS 7](/images/WS%207.jpg)
 
  After clicking the update button, the scheduled time for the weekly run is saved. Consequently, the test run will automatically execute on the specified day at the designated time.
 
