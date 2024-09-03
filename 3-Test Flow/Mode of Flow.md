@@ -33,7 +33,7 @@ Once all test cases within the suite has been executed, the node status transiti
 
 Parallel mode in a flow allows multiple testcase to be executed simultaneously rather than sequentially. This increases efficiency by enabling different test cases to run at the same time, reducing overall execution time.
           
-![MODE6](/TestFlowImages/MODE6.png)
+![MODE6](./TestFlowImages/MODE6.png)
 
 Click on run button at the flow builder to execute the flow.
 
