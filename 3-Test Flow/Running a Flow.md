@@ -12,7 +12,7 @@ This approach ensures that each node is completed before proceeding to the next,
 
 3. After the execution of the first node, delay node will pause the flow execution to a specified time period and then continue the execution of second suite node.
 
-![sm3](\TestFlowImages\sm3.png)
+![sm3](TestFlowImages\sm3.png)
 
 4. Based on the status of the second node, its conditional execution node will trigger the execution of its sub nodes. The Mail node will be responsible for sending the flow's report to the designated email recipient. Finally, the flow will complete its execution via exit node.
 
