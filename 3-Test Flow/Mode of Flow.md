@@ -27,17 +27,17 @@ Serial execution of a flow refers to running nodes in a sequential manner, where
 
 Once all test cases within the suite has been executed, the node status transitions from InProgress to a passed state or failed, and the color of the suite node changes to green if passed and red if failed.
 
-![MODE 5](\TestFlowImages\MODE5.png)
+![MODE 5](/TestFlowImages/mode5)
 
 ### Parallel Mode
 
 Parallel mode in a flow allows multiple testcase to be executed simultaneously rather than sequentially. This increases efficiency by enabling different test cases to run at the same time, reducing overall execution time.
           
-![MODE6](\TestFlowImages\MODE6.png)
+![MODE6](/TestFlowImages/MODE6.png)
 
 Click on run button at the flow builder to execute the flow.
 
-![MODE7](\TestFlowImages\MODE7.png)
+![MODE7](/TestFlowImages/MODE7)
 
 The flow builder will be redirected to the flow report page where user can observe the run status of each suite node.
 
