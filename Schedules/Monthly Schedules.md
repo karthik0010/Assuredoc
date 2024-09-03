@@ -7,7 +7,7 @@
 
 1. Click on monthly from drop down
 
-![MS 1](/images/MS%201.png)
+![MS 1](/images/MS%201.png)  
 
 2. Select days of the month from the drop down
 
