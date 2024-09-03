@@ -9,7 +9,7 @@ To build a flow, Assureqa provides various nodes such as the suite node, delay, 
 <br>
 
 > [!Note]
->  Before you create flow make sure you've set up the test case" 
+>  Before you create flow make sure you've set up the **Test Case**" 
 
 <br>
 
