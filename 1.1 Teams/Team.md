@@ -1,4 +1,3 @@
-﻿
 
 ## Team Creation
 Assureqa provides team management features where each team can include multiple projects and members. The team owner can invite members to join the team and assign specific roles and permissions to protect projects and data. Team members can share data, edit tasks, and collaborate more effectively, enhancing overall team productivity.
@@ -9,7 +8,7 @@ Assureqa provides team management features where each team can include multiple 
 
 ![B1](./TeamImages/B1.png)
    
-2. Enter the team name and click on create button the person who create the team became the team owner
+2. Enter the team name and click on create button the person who create the team will become the team owner.
 
 ![B2](./TeamImages/B2.png)
 
