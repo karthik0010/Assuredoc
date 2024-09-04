@@ -22,7 +22,7 @@ This functionality empowers the user to deactivate a step.
 
 **Cutting a Test Step**
 
-This feature enables the user to cut and paste a test step to an exact position. User can also click and drag test step to arrange steps
+This feature enables the user to cut and paste a test step to an exact position.
 
 ![Image4](./SharedImages/4.Cut%20test%20step.png)
 
