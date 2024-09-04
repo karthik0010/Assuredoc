@@ -13,7 +13,7 @@ Assureqa provides team management features where each team can include multiple 
 
 ![B2](./TeamImages/B2.png)
 
-> ![Note]: 
+> [!Note]: 
 > A team can be created by anyone who signs up on the Assureqa platform.
 
   **Project** 
@@ -43,11 +43,8 @@ Assureqa enables team owners and admins to add members to their respective teams
 
 ![B6](./TeamImages/B6.png)
 
-> [!NOTE] :
+> [!NOTE]
 > who can invite the member to the team?
-
-  <br>
-
 > Team owner and team admin can invite the member to the team 
 
 **Team Role**
