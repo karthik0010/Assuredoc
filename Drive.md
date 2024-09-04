@@ -39,15 +39,14 @@ User can create folders on this drive page.
 
 ![D-7](/images/D-7.png)
 
-Click on the **Create folder** option
+1. Click on the **Create folder** option
 
 ![D-8](/images/D-8.png)
 
-Enter the desired folder name in the dialog box that appears when the user clicks ‘Create folder’
+2. Enter the desired folder name in the dialog box that appears when the user clicks ‘Create folder’
 
+3. Click on **Create** button
 ![D-9](/images/D-9.png)
-
-Click on **Create** button
 
 ![D-10](/images/D-10.png)
 
