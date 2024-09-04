@@ -13,7 +13,7 @@ Additionally, they can search for a specific flow report by entering its name in
 
 ![FR-2](./ReportsImage/FR-2.png)
 
-Detailed flow report
+**Detailed flow report**
 
 To view a detailed flow report, follow these steps
 
