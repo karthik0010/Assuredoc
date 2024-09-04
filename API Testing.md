@@ -55,7 +55,7 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
  1. Click on the kebab button on the folder
  2. Select "new request" from options
  3. Enter request name
- 4. Click on the request will be displayed on the right.
+ 4. Click on the request, request editor will be displayed on the right.
  
  ![api9](/images/api9.png)
  
@@ -72,7 +72,7 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
  
  3. Enter request name
  4. Select folder by clicking on the folder name
- 5. Click on save, savedcreate, request editor will be displayed inside the folder.
+ 5. Click on save, saved request will be displayed inside the folder.
 
 ![api13](/images/api13.png)
 
@@ -83,7 +83,7 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
 After creating a request, the next step is to know how to use these requests for API testing. Let's go through it step by step.
  
  1. Click on the required request in the folder
- 2.  Click on method dropdown near the url field, it will display all available methods like GET, POST, PUT, DELETE and PATCH. By default, the method will be GET.
+ 2.  Click on method dropdown near the url field, it will display all available http methods like GET, POST, PUT, DELETE and PATCH. By default, the method will be GET.
 
  ![api15](/images/api15.png)
 
@@ -116,6 +116,7 @@ Test Result
 
 Assureqa allows you to write test scripts in JavaScript that run after the response is received. These tests can check various conditions, such as status codes, response times, or specific data in the response body.
 The results of these tests are shown under the "Test Result" tab. If all tests pass, you'll see green mark; if any tests fail, you'll see red mark. In simple words we can say, that the Test Result tab shows the outcomes of any tests you’ve written to validate the API response.
+
 
 **Send data along with HTTP requests**
 
@@ -175,16 +176,16 @@ How to configure Headers?
 
 ![api24](/images/api24.png)
 
-Authentication
+Authorization
 
-Authentication ensures that the API request is made by an authorized user. Common methods include:
+Authorization ensures that the API request is made by an authorized user. Common methods include:
 Bearer Token: Sent in the authorization header.
 Basic Auth: Encoded credentials in the authorization header.
 
-How to Set Up Authentication?
+How to Set Up Authorization?
 
-1. Access the authentication settings.
-2. Choose the authentication type (API Key, Bearer Token, Basic Auth).
+1. Access the authorization settings.
+2. Choose the authorization type (none, Bearer Token, Basic Auth).
 3. Enter the required credentials or tokens.
 
  ![api25](/images/api25.png)
@@ -215,7 +216,7 @@ User can select either of them for testing.
 
 ![api27](/images/api27.png)
 
-## Enviroment and Global Variables
+## Environment and Global Variables
 
 **Global Variables**
 Global variables in Assureqa are variables that are accessible across all collections, environments, and requests within your Assureqa workspace. They are useful when you need to reuse values across different requests and collections without needing to define them separately each time. The following steps outline the process for creating and utilizing global variables in the request.
