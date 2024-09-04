@@ -1,4 +1,4 @@
-#**Edit Actions in shared test step**
+#Edit Actions in shared test step
 
 We have several options available to modify steps, including Delete, Enable, Disable, Cut, and Copy
 
