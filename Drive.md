@@ -37,20 +37,22 @@ User can **download**, **Rename**,  and **delete** the uploaded file by clicking
 
 User can create folders on this drive page.
 
-![D-7](/images/D-7.png)
-
 1. Click on the **Create folder** option
-
-![D-8](/images/D-8.png)
+![D-7](/images/D-7.png)
 
 2. Enter the desired folder name in the dialog box that appears when the user clicks ‘Create folder’
 
+![D-8](/images/D-8.png)
+
 3. Click on **Create** button
+
 ![D-9](/images/D-9.png)
+
+Created folder will be displayed on the drive page.
 
 ![D-10](/images/D-10.png)
 
-It is possible to upload files and create additional subfolders inside the created folder.
+Also, it is possible to upload files and create additional subfolders inside the created folder.
 
 ![D-11](/images/D-11.png)
 
