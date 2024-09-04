@@ -10,7 +10,9 @@ Integration support for third-party services within the AssureQA platform. Our p
 **Lambdatest**
 
 1. Click the "Connect" button on LambdaTest.
+
 ![q2](/1.1%20Teams/TeamImages/q2.png)
+
 2. Enter the username and access key, then click "Connect."
 
 ![q3](/1.1%20Teams/TeamImages/q3.png)
