@@ -27,4 +27,4 @@ User can click this option to report a bug when it is enabled; otherwise, the op
 
 
 
-![UR-6](./ReportsImage/UR-6.png)
+
