@@ -16,11 +16,13 @@ Additionally, they can search for a specific flow report by entering its name in
 **Detailed flow report**
 
 To view a detailed flow report, follow these steps
+
+
 Select the desired flow report
 
 ![FR-3](./ReportsImage/FR-3.png)
 
-The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed).
+The user is then directed to the detailed structure of the flow, with each node highlighted according to its status (passed or failed).
 
 ![FR-4](./ReportsImage/FR-4.png)
 
