@@ -27,9 +27,9 @@ Now, the uploaded data will appear in the list on the Drive page.
 
 ![D-5](/images/D-5.png)
 
-![D-6](/images/D-6.png)
-
 User can **download**, **Rename**,  and **delete** the uploaded file by clicking on kebab menu
+
+![D-6](/images/D-6.png)
 
 Create folder
 
