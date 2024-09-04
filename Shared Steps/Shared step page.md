@@ -13,8 +13,8 @@ Clicking on the three dots will reveal the options to "Update" and "Delete.
 
 Click on the update option to modify the shared name, description, or tags. After making your changes, click the update button to save them.
 
-[Image3](./SharedImages/3.Click%20Update.png)
+[Image3](./SharedImages/Click Update.png)
 
 Upon clicking the "Delete" button, a dialog will appear, as depicted in the above figure. By then clicking the "Delete" button within this dialog box, the shared test that was created will be deleted.
 
-[Image4](./SharedImages/4.Cick%20Delete.png)
+[Image4](./SharedImages/Click Delete.png)
