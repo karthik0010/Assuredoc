@@ -14,6 +14,6 @@ Once you click the "group step icon , a dialog box will pop up. Within this dial
 
 ![Image](./SharedImages/2.Naming%20Shared%20test.png)
 
-As a result, a shared test titled "Shared Test 1" has been newly created and you can view Shared testcase on shared test step page
+As a result, a shared test titled "Shared Test 1" has been newly created and you can view Shared testcase on shared step page
 
 ![image](./SharedImages/3.Shared%20test%20displayed%20in%20shared%20page.png)
