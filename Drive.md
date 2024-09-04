@@ -7,6 +7,7 @@ Files are listed with details such as the file name (with a copy button), last m
 
 ![D-1](/images/D-1.png)
 
+**Upload a file**
 To upload a file to Drive, follow these steps:
 
 1. Click on **Upload File**.
@@ -31,7 +32,7 @@ User can **download**, **Rename**,  and **delete** the uploaded file by clicking
 
 ![D-6](/images/D-6.png)
 
-Create folder
+**Create folder**
 
 User can create folders on this drive page.
 
