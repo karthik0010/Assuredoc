@@ -19,7 +19,7 @@ A test case is a structured set of steps and criteria used to assess whether a s
 
 ![Cloned TestCase](./TestcaseImages/3.Cloned%20TestCase.png)
 
-{% comment %} 
+<!--  
 
 **Move** 
 
@@ -27,8 +27,7 @@ A test case is a structured set of steps and criteria used to assess whether a s
 
 ![Move Test Case](./TestcaseImages/4.Move%20Test%20Case.png)
 
-{% endcomment %}
-
+-->
 
 **Delete** 
 
