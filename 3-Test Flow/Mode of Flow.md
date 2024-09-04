@@ -35,11 +35,11 @@ Parallel mode in a flow allows multiple testcase to be executed simultaneously r
           
 ![MODE6](./TestFlowImages/MODE6.png)
 
-Click on run button at the flow builder to execute the flow.
+1. Click on run button at the flow builder to execute the flow.
 
 ![MODE7](./TestFlowImages/MODE7.png)
 
-The flow builder will be redirected to the flow report page where user can observe the run status of each suite node.
+2. The flow builder will be redirected to the flow report page where user can observe the run status of each suite node.
 
 ![MODE 8](./TestFlowImages/MODE8.png)
 
