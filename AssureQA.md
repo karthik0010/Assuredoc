@@ -1,4 +1,4 @@
- **AssureQA**
+# AssureQA
 
 **The Automation Revolution in Software Development**
 
