@@ -1,4 +1,4 @@
-## Adding shared test cases into the test case page
+## Adding shared test into the test case page
 
 Let’s us now explore how to add shared test on testcase page.
 
