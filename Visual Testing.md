@@ -18,7 +18,7 @@ Assureqa offers a Visual Testing feature. This ensures a consistent user experie
 **Running visual test on testcase**
 1. After enabling the visual testing button, click on the run button
 2. A baseline image has been created, run the test again to compare it with the original image.
-3. In the second run, there appear wheel icon indicating the visual validation.
+3. In the second run, there appears wheel icon indicating the visual validation.
 
 ![vi2](/images/vi2.png)
 
