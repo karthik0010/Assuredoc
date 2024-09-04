@@ -1,18 +1,17 @@
 ## Schedule Reports
-
-![SR-1](./ReportsImage/SR-1.png)
-
 On this page, all schedule reports are displayed.
 
 Users can view the schedule reports name, run time, run by, status (whether passed, failed, or aborted), and action (accessible via the three dots option, which includes a delete button).
 
 Using the action option, the user can delete reports by clicking the delete button.
 
-![SR-2](./ReportsImage/SR-2.png)
+![SR-1](./ReportsImage/SR-1.png)
 
 Users can filter schedule reports by status (passed, failed, aborted, in-progress, container creating, terminated), maintainer, and frequency (daily, weekly, monthly).
 
 Additionally, user can search for a specific flow report by entering its name in the search field. To clear all filters, users can click the ‘reset’ button.
+
+![SR-2](./ReportsImage/SR-2.png)
 
 Detailed Schedule report
 
