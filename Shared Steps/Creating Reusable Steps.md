@@ -1,4 +1,4 @@
-## 0Shared  Creation
+## Shared  Creation
 
 A shared testcase includes a set of test steps that can be reused to design other test cases.
 
