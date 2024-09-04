@@ -1,7 +1,7 @@
 
 # UI sensor installation
 
-To execute and capture test runs, AssureQA requires the installation of its Chrome extension.
+To capture test events, AssureQA requires the installation of its Chrome extension.
 
 The AssureQA UI sensor can be installed directly as a Chrome extension from the Chrome Web Store.
 
