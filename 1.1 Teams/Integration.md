@@ -4,8 +4,8 @@ Integration support for third-party services within the AssureQA platform. Our p
 
 ![q1](/1.1%20Teams/TeamImages/q1.png)
 
->[!Note]  
->You just need the username and Access Key for all third party integration 
+> [!Note]  
+> You just need the username and Access Key for all third party integration 
 
 **Lambdatest**
 
