@@ -21,7 +21,7 @@ Select the desired Schedule report
 
 ![SR-3](./ReportsImage/SR-3.png)
 
-The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed)
+The user is then directed to the detailed structure of the flow , with each node highlighted according to its status (passed or failed)
 
 ![SR-4](./ReportsImage/SR-4.png)
 
