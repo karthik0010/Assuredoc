@@ -17,30 +17,34 @@ Detailed Schedule report
 
 To view a detailed flow report, follow these steps
 
+Select the desired Schedule report
+
 ![SR-3](./ReportsImage/SR-3.png)
 
-Select the desired Schedule report
+The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed)
 
 ![SR-4](./ReportsImage/SR-4.png)
 
-The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed).
+Clicking on each suite node will display a detailed summary report. This report includes a pie chart illustrating the status, along with details such as the browser used for execution, start time, environment, executed by, duration, execution method, and a list of test cases with their corresponding status.
+
 
 ![SR-5](./ReportsImage/SR-5.png)
 
-Clicking on each suite node will display a detailed summary report. This report includes a pie chart illustrating the status, along with details such as the browser used for execution, start time, environment, executed by, duration, execution method, and a list of test cases with their corresponding status.
+Users can download a detailed PDF report and CSV report by clicking the three dots.
+
 
 ![SR-6](./ReportsImage/SR-6.png)
-
-Users can download a detailed PDF report and CSV report by clicking the three dots.
+User can enable this toggle to view the failed test steps.
 
 ![SR-7](./ReportsImage/SR-7.png)
 
-User can enable this toggle to view the failed test steps.
+User can click this option to report a bug when it is enabled; otherwise, the option will appear disabled. To enable this option, each user must integrate their Jira account by providing unique inputs
+
 
 ![SR-8](./ReportsImage/SR-8.png)
 
-User can click this option to report a bug when it is enabled; otherwise, the option will appear disabled. To enable this option, each user must integrate their Jira account by providing unique inputs
+By clicking the three dots, users can download flow PDF, flow CSV, and flow screenshot PD
 
 ![SR-9](./ReportsImage/SR-9.png)
 
-By clicking the three dots, users can download flow PDF, flow CSV, and flow screenshot PDF.
+
