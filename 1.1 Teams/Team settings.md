@@ -7,14 +7,14 @@
 
 ![SS1](./TeamImages/SS1.png)
 
-**Quite the team**
+**Quit the team**
 
 - When you leave a team, you will lose access to all projects associated with that team.
 
 ![SS2](./TeamImages/SS2.png)
 
-> [!NOTE]:
-> If the team owner decides to quite, they must transfer ownership to another member before they can leave the team. 
+> [!NOTE]
+> If the team owner decides to quit, they must transfer ownership to another member before they can leave the team. 
 
 **Transfer the team** 
 
