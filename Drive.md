@@ -19,13 +19,13 @@ To upload a file to Drive, follow these steps:
 
 Then, a prefix can be assigned to the file being uploaded if desired, but it is not mandatory.
 
+3.Click on the **Upload** option
+
 ![D-4](/images/D-4.png)
 
-Click on the **Upload** option
+Now, the uploaded data will appear in the list on the Drive page.
 
 ![D-5](/images/D-5.png)
-
-Now, the uploaded data will appear in the list on the Drive page.
 
 ![D-6](/images/D-6.png)
 
