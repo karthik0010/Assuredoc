@@ -5,7 +5,7 @@ To capture test events, AssureQA requires the installation of its Chrome extensi
 
 The AssureQA UI sensor can be installed directly as a Chrome extension from the Chrome Web Store.
 
-![UI.record-1](/images/UI.record-1.png)
+![UI.record-1](/images/recorder.png)
 
 1. Click on the **Record new testcase** button to open the recording page.
 
