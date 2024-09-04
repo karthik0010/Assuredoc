@@ -117,6 +117,8 @@ Test Result
 Assureqa allows you to write test scripts in JavaScript that run after the response is received. These tests can check various conditions, such as status codes, response times, or specific data in the response body.
 The results of these tests are shown under the "Test Result" tab. If all tests pass, you'll see green mark; if any tests fail, you'll see red mark. In simple words we can say, that the Test Result tab shows the outcomes of any tests you’ve written to validate the API response.
 
+![api42](/images/api42.png)
+
 **Send data along with HTTP requests**
 
 
