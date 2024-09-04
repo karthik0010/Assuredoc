@@ -2,7 +2,7 @@
 
 A shared testcase includes a set of test steps that can be reused to design other test cases.
 
-Let's explore how to create shared tests. Navigate to the test case page and select the desired test case.
+Let's explore how to create shared test. Navigate to the test case page and select the desired test case.
 
 
 Click on the checkboxes located to the left of the test step to select the steps you want to share and reuse. Once selected, click the "group step" icon located above the list of test steps.
