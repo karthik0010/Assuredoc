@@ -1,6 +1,6 @@
 ## Integration
 
-Integration support for third-party services within the AssureQA platform. Our platform effortlessly integrates with a range of services, including  Browser stack, lambdatest ,Saucelabs.
+AssureQA supports the third-party services. Our platform effortlessly integrates with a range of services, including  Browser stack, lambdatest ,Saucelabs.
 
 ![q1](/1.1%20Teams/TeamImages/q1.png)
 
