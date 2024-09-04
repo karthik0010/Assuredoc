@@ -2,7 +2,7 @@
 
  A group of test suites make up a flow. Test suites and their associated test cases are run, either in parallel or sequential mode, according to the configuration, when a flow is executed.
 
-  ## How to build a test flow ?
+  **How to build a test flow ?**
 To build a flow, Assureqa provides various nodes such as the suite node, delay, condition, and email node. Users can design a test flow based on their specific requirements using these nodes. Let's explore how to create a flow using these nodes. 
 ### Flow creation using single node
 
@@ -48,7 +48,7 @@ To build a flow, Assureqa provides various nodes such as the suite node, delay, 
  
  ![FCK8](/images/FCK8.png)
 
- 10. Choose the run mode either serial or parallel then 
+ 10. Choose the run mode either serial or parallel 
 
  ![FCK9](/images/FCK9.png)
 
