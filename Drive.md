@@ -56,8 +56,8 @@ Also, it is possible to upload files and create additional subfolders inside the
 
 ![D-11](/images/D-11.png)
 
-![D-12](images/D-12.png)
-
 User created folder can be renamed and deleted by clicking on the kebab menu.
+
+![D-12](images/D-12.png)
 
 ![D-13](/images/D-13.png)
