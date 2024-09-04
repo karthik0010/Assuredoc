@@ -13,7 +13,7 @@ Assureqa provides team management features where each team can include multiple 
 
 ![B2](./TeamImages/B2.png)
 
-> [!Note]: 
+> [!Note] 
 > A team can be created by anyone who signs up on the Assureqa platform.
 
   **Project** 
@@ -59,7 +59,7 @@ There are two types of role in team management one is team member and   other te
 
 ![B8](./TeamImages/B8.png)
 
-> [!Note] : 
+> [!Note]
 > Only the team owner and team admin have the ability to change team roles.
 
  **Removing a team member**
@@ -72,7 +72,7 @@ There are two types of role in team management one is team member and   other te
 
 ![B10](./TeamImages/B10.png)
 
-> [!Note]:
+> [!Note]
 > Only the team owner and team admin can remove members from the team.
  
  **Project permission**
@@ -85,7 +85,7 @@ There are two types of role in team management one is team member and   other te
 
 ![B12](./TeamImages/B12.png)
 
-> [!Note]: 
+> [!Note]
 > Only team Owner and Project Admin can change the permissions of members within their team.
 
 
