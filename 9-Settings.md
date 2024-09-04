@@ -9,13 +9,13 @@ Profile page contains user name ,phone number, and email id.
 ![Set2](/images/set2.png)
 
 **Username**
-The username entered on the profile page is shown on the user profile, and users can update their username directly from there.
+User can update their user name given during account creation from this profile settings.
 
 **Phone Number**
 The phone number field is optional.
 
 **Email id**
-The email is displayed by default.
+The registered email will displayed.
 
 After entering the mandatory fields, click on the update button.
 
