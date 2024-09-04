@@ -60,4 +60,6 @@ User created folder can be renamed and deleted by clicking on the kebab menu.
 
 ![D-12](images/D-12.png)
 
+Deleted file will disappear from the page.
+
 ![D-13](/images/D-13.png)
