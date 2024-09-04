@@ -52,7 +52,7 @@ To build a flow, Assureqa provides various nodes such as the suite node, delay, 
 
  ![FCK9](/images/FCK9.png)
 
- 11. click on the update button 
+ 11. Click on the update button 
   
  ![FCK10](/images/FCK10.png)
  
