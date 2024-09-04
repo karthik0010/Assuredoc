@@ -12,8 +12,11 @@ A dialog box will appear to select Shared Testcase from the drop-down box and an
 
 Now the shared step has been added on the testcase on index number
 
-![Image](./SharedImages/3.Live%20report%20is%20displayed.png)
+![image](./SharedImages/3.Shared%20displayed%20in%20the%20given%20step.png)
 
 Click on the run button ,here you can view the live report of shared
 
-![image](./SharedImages/3.Shared%20displayed%20in%20the%20given%20step.png)
+![Image](./SharedImages/3.Live%20report%20is%20displayed.png)
+
+
+
