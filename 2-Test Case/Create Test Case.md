@@ -9,6 +9,7 @@ Navigate to the test case page and click on "Create", where you'll find two opti
 
 1. If you wish to record a script using the UI sensor, choose the "Record new Test Case" option. If you prefer to manually create a script, opt for "Blank Test Case." Here let's record a test case using the UI sensor.
 
+![tt](./TestcaseImages/tt_1.png)
 
 2. Click on "Record new Test Case" and enter the site URL where you want to record the script (test case). And click the record button.
 
