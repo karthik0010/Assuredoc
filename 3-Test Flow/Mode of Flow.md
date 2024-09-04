@@ -5,7 +5,7 @@
 
 The flow can be easily managed by users according to their preferences. They can use a single node such as a suite node, to execute the flow, or they can use multiple nodes, such as a delay, condition, action, and suite node, to direct the flow.
 
-**Mode of Execution**
+** Mode of Execution **
 
 ### Serial Mode
 
