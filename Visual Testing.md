@@ -12,7 +12,7 @@ Assureqa offers a Visual Testing feature. This ensures a consistent user experie
 ![vi1](/images/vi1.png)
 
 > [!Note:]
-> Once you enable visual testing, AssureQA requires a baseline image corresponding to the test step to perform visual testing. So, the visual comparison will appear on the test step only after a run, since AssureQA needs the baseline image.
+> Once you enable visual testing, AssureQA requires a baseline image corresponding to the test step to perform visual testing. So, the visual comparison will appear on the test step only after a run.
 > When performing visual testing with AssureQA, you need to compare the current image (actual image) with the original image (baseline image) to ensure they match.
 
 **Running visual test on testcase**
