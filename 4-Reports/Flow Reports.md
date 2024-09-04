@@ -16,31 +16,32 @@ Additionally, they can search for a specific flow report by entering its name in
 **Detailed flow report**
 
 To view a detailed flow report, follow these steps
+Select the desired flow report
 
 ![FR-3](./ReportsImage/FR-3.png)
 
-Select the desired flow report
+The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed).
 
 ![FR-4](./ReportsImage/FR-4.png)
 
-The user is then directed to the detailed structure of the flow (flow builder), with each node highlighted according to its status (passed or failed).
+Clicking on each suite node will display a detailed summary report. This report includes a pie chart illustrating the status, along with details such as the browser used for execution, start time, environment, executed by, duration, execution method, and a list of test cases with their corresponding status.
 
 ![FR-5](./ReportsImage/FR-5.png)
 
-Clicking on each suite node will display a detailed summary report. This report includes a pie chart illustrating the status, along with details such as the browser used for execution, start time, environment, executed by, duration, execution method, and a list of test cases with their corresponding status.
+Users can download a detailed PDF report and CSV report by clicking the three dots.
 
 ![FR-6](./ReportsImage/FR-6.png)
 
-Users can download a detailed PDF report and CSV report by clicking the three dots.
+User can enable this toggle to view the failed test steps.
 
 ![FR-7](./ReportsImage/FR-7.png)
 
-User can enable this toggle to view the failed test steps.
+User can click this option to **report a bug** when it is enabled; otherwise, the option will appear disabled. To enable this option, each user must integrate their Jira account by providing unique inputs
 
 ![FR-8](./ReportsImage/FR-8.png)
 
-User can click this option to **report a bug** when it is enabled; otherwise, the option will appear disabled. To enable this option, each user must integrate their Jira account by providing unique inputs
+By clicking the three dots, users can download flow PDF, flow CSV, and flow screenshot PDF.
 
 ![FR-9](./ReportsImage/FR-9.png)
 
-By clicking the three dots, users can download flow PDF, flow CSV, and flow screenshot PDF.
+
