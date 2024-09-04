@@ -18,11 +18,13 @@ AssureQA supports the third-party services. Our platform effortlessly integrates
 ![q3](/1.1%20Teams/TeamImages/q3.png)
 
 **Saucelab**
-1. Enter the username, access key, and select region, then click "Connect."
+1. Click the "Connect" button on Saucelab.
+2. Enter the username, access key, and select region, then click "Connect."
 
 ![q4](/1.1%20Teams/TeamImages/q4.png)
 
 **Browserstack** 
-1. Enter the username ,accesskey , then click connect 
+1.  Click the "Connect" button on Browserstack
+2.  Enter the username ,accesskey , then click on connect. 
 
 ![q5](/1.1%20Teams/TeamImages/q5.png)
