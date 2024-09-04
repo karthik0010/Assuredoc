@@ -117,7 +117,9 @@ Test Result
 Assureqa allows you to write test scripts in JavaScript that run after the response is received. These tests can check various conditions, such as status codes, response times, or specific data in the response body.
 The results of these tests are shown under the "Test Result" tab. If all tests pass, you'll see green mark; if any tests fail, you'll see red mark. In simple words we can say, that the Test Result tab shows the outcomes of any tests you’ve written to validate the API response.
 
-Send data along with HTTP requests
+**Send data along with HTTP requests**
+
+
 Middleware in API testing is crucial for managing various aspects of your API requests and responses, including parameters, request bodies, authentication, and test configurations. Here’s how you can handle each of these elements in your system:
   
 Params
