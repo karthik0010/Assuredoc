@@ -1,18 +1,17 @@
 ## Flow Reports
-
-![FR-1](./ReportsImage/FR-1.png)
-
 On this page, all flow reports are displayed.
 
 Users can view the flow reports name, run time, run by, status (whether passed, failed, or aborted), and action (accessible via the three dots option, which includes a delete button).
 
 Using the action option, the user can delete reports by clicking the delete button.
 
-![FR-2](./ReportsImage/FR-2.png)
+![FR-1](./ReportsImage/FR-1.png)
 
 Users have the flexibility to filter flow reports by status (passed, failed, aborted, in-progress, container creating, terminated) and maintainer.
 
 Additionally, they can search for a specific flow report by entering its name in the search field. To remove all filters, users can simply click the ‘reset’ button.
+
+![FR-2](./ReportsImage/FR-2.png)
 
 Detailed flow report
 
