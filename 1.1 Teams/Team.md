@@ -21,7 +21,7 @@ Assureqa provides team management features where each team can include multiple 
 Assureqa enables users to create independent workspaces, known as projects, where they can develop test cases, workflows, variables, and datasets.
 Assureqa offers two types of projects  :web automation and API testing 
 
-** Project Creation **
+**Project Creation**
 
 1. Click on Add Project
 

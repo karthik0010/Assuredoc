@@ -19,11 +19,16 @@ A test case is a structured set of steps and criteria used to assess whether a s
 
 ![Cloned TestCase](./TestcaseImages/3.Cloned%20TestCase.png)
 
+{% comment %} 
+
 **Move** 
 
 4. Move option allows the user to relocate the test case to the chosen sub module.
 
 ![Move Test Case](./TestcaseImages/4.Move%20Test%20Case.png)
+
+{% endcomment %}
+
 
 **Delete** 
 

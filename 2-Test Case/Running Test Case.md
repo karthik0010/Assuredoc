@@ -104,22 +104,22 @@ We have several options available to modify steps, including Delete, Enable, Dis
 
 **Cutting a Test Step**
 
-15. ![Cutting TestStep(Running TestCase)](./TestcaseImages/15.Cutting%20TestStep(Running%20TestCase).png)
+![Cutting TestStep(Running TestCase)](./TestcaseImages/15.Cutting%20TestStep(Running%20TestCase).png)
 
-16. ![Pasting TestStep(Running Test Case)](./TestcaseImages/16.Pasting%20TestStep(Running%20Test%20Case).png)
+![Pasting TestStep(Running Test Case)](./TestcaseImages/16.Pasting%20TestStep(Running%20Test%20Case).png)
 
-This feature enables the user to cut and paste a test step to an exact position. User can also click and drag test step to arrange steps.
+15. This feature enables the user to cut and paste a test step to an exact position. User can also click and drag test step to arrange steps.
 
 **Copying a Test Step**
 
-17. ![Copy TestStep(Running Test Case)](./TestcaseImages/17.Copy%20TestStep(Running%20Test%20Case).png)
+![Copy TestStep(Running Test Case)](./TestcaseImages/17.Copy%20TestStep(Running%20Test%20Case).png)
 
-18. [Pasting Copied TestStep(Running Test Case)](./TestcaseImages/18.Pasting%20Copied%20TestStep(Running%20Test%20Case).png)
+![Pasting Copied TestStep(Running Test Case)](./TestcaseImages/18.Pasting%20Copied%20TestStep(Running%20Test%20Case).png)
 
-This functionality enables the user to copy and paste the test step to a precise position with a simple click on the destination.
+16. This functionality enables the user to copy and paste the test step to a precise position with a simple click on the destination.
 
 **Reusable step icon**
 
-19. ![Create Reusable Test Step(Running Test Case)](./TestcaseImages/19.Create%20Reusable%20Test%20Step.png)
+![Create Reusable Test Step(Running Test Case)](./TestcaseImages/19.Create%20Reusable%20Test%20Step.png)
 
-This icon allows user to create reusable steps.
+17. This icon allows user to create reusable steps.
