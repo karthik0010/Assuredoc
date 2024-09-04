@@ -206,7 +206,7 @@ How to write Test scripts?
 ## Interceptor
 
 AssureQA offers two interceptors like Browser and Proxy to intercept API requests and responses for testing purposes.
-Browser-Directly sents request from client to server.
+Browser-Directly sents request from browser to server.
 Proxy- Proxy server acts as an intermediary between the client (like a web browser) and the server. It forwards 
 client requests to the server and sends the server's response back to the client. 
 User can select either of them for testing.
