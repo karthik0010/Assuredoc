@@ -1,26 +1,23 @@
 ## Drive
-
-![D-1](/images/D-1.png)
-
 Drive is the file storage system for Assure QA, where users can upload and store files.
 
 On this page, users can attach small files and use their path in test steps.
 
 Files are listed with details such as the file name (with a copy button), last modified date, and size. Users can also download, rename, and delete files by clicking the three dots.
 
+![D-1](/images/D-1.png)
+
 To upload a file to Drive, follow these steps:
+
+1. Click on **Upload File**.
 
 ![D-2](/images/D-2.png)
 
-Click on **Upload File**.
+2. Click on the **Upload File** button, then select the required/desired file.
 
 ![D-3](/images/D-3.png)
 
-Click on the **Upload File** button, then select the required/desired file.
-
-Then,
-
-A prefix can be assigned to the file being uploaded if desired, but it is not mandatory.
+Then, a prefix can be assigned to the file being uploaded if desired, but it is not mandatory.
 
 ![D-4](/images/D-4.png)
 
