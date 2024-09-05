@@ -78,9 +78,13 @@ This feature enables the user to view all the failed steps.
 **Live view**
 Assureqa also allows user to view the live view of the test runs.For that, just click on the toggle button at the testcase editor and so the live view will be available at the view section at the testcase editor as well as inside the unit report.
 
-Inside test case editor
+-Inside test case editor
 
-Inside test report
+![LV](/images/tc_d.png)
+
+-Inside test report
+
+![LV](/images/tc_d.png)
 
 **Edit Actions in Test Step**
 We have several options available to modify steps, including Delete, Enable, Disable, Cut, Copy, and the ability to create a reusable step.Let's explore the procedures connected with these buttons.
