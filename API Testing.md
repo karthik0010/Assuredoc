@@ -78,9 +78,11 @@ Created folder will be displayed on the left hand side.
  
  4. Enter request name
  5. Select folder by clicking on the folder name
- 6. Click on save, saved request will be displayed inside the folder.
+ 6. Click on save
 
 ![api13](/images/api13.png)
+
+Saved request will be displayed inside the folder.
 
 ![api14](/images/api14.png)
  
@@ -211,6 +213,9 @@ How to write Test scripts?
 1. Open a request
 2. Click on the test
 3. Write test scripts using the scripting language on the test section or click on snippet at the right hand side
+
+![api26](/images/api42.png)
+
 4. Click on Save and send the request
 5. Review the results
 
