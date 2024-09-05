@@ -214,7 +214,7 @@ How to write Test scripts?
 2. Click on the test
 3. Write test scripts using the scripting language on the test section or click on snippet at the right hand side
 
-![api26](/images/api42.png)
+![api26](/images/api43.png)
 
 4. Click on Save and send the request
 5. Review the results
@@ -235,6 +235,9 @@ User can select either of them for testing.
 Global variables in Assureqa are variables that are accessible across all collections, environments, and requests within your Assureqa workspace. They are useful when you need to reuse values across different requests and collections without needing to define them separately each time. The following steps outline the process for creating and utilizing global variables in the request.
 
 1. Click on environment menu
+
+![api28](/images/api28.png)
+
 2. Click on global variables in Assureqa.
 3. Click on '+' near search field
 
@@ -268,9 +271,6 @@ Global variables in Assureqa are variables that are accessible across all collec
 Environment variables in Assureqa are used to manage dynamic data and simplify the process of testing APIs across different environments. They allow you to store and reuse values such as URLs, API keys, or tokens across multiple requests, making your testing process more efficient and organized. The following steps outline the process for creating and utilizing environment variables in the request.
 
 1. Click on the Environments in Assureqa that appear upon clicking the enviroment menu.
-
-![api28](/images/api28.png)
-
 2. Click on '+' near the environment 
 
 ![api29](/images/api29.png)
