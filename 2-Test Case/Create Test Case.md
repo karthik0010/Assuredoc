@@ -34,7 +34,7 @@ Navigate to the test case page and click on "Create", where you'll find two opti
 
 1.  Blank test option lets users create Test step manually. When selecting the option, users will be prompted to enter the test case name, description, and a valid URL initially.
 
-![Creating Blank Test Case](./TestcaseImages/6.Creaing%20Blank%20TestCase.png)
+![Creating Blank Test Case](/images/tc_b.png)
 
 2.  After verifying the environment and  browser selection, click the 'Create' button. The test case will be successfully created based on the provided details.
 
