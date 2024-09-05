@@ -102,3 +102,33 @@ The downloaded file should be correctly stored in the ‘Drive-2’ folder.
 
 ![Ds](images/D.s-8.png)
 
+**Create Test step for Uploading File**
+
+In AssureQA, the 'UploadFile' keyword is used to automate file uploading.To use this keyword, you need to specify the file path where the file is saved.
+The drive will play a major role in this case. We've already covered how to upload a file to the drive, let's move on to creating a test step using the uploaded file. Follow these steps:
+
+**Step-1**
+
+1. Click on the 'Drive-1' folder on the Drive page.
+
+**Step-2**
+
+On this page, user can copy the file path by clicking the button next to the name of the uploaded file.
+
+**Step-3**
+
+When copying the file path this way, the path includes the folder name preceding the file name.
+
+For example, if the folder name is '**Drive-1'** and the file name is **'1.1-MB-1.jpg**', the copied path will be **'Drive-1/1.1-MB-1.jpg**'.
+
+**Step-4**
+
+Then, go to the test case page and select the ‘Upload File’ test case.
+
+**Step-5**
+
+Click on the upload file step, paste the copied path into the definition field, and click ‘Save’.
+
+**Step-6**
+
+Click ‘Run’ to execute the test case. The file present in the drive will be uploaded to the application under test.
