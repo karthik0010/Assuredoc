@@ -69,38 +69,36 @@ Deleted file will disappear from the page.
 In AssureQA, the 'DownloadFile' keyword is used to automate file downloads.To use this keyword, you need to specify the file path where the file will be saved.
 The drive will play a major role in this case. The steps below will tell you the role of drive in the downloadfile keyword:
 
-**D.s-1**
+1. Create a new folder in the drive.
 
-Create a new folder in the drive.
+![Ds](images/D.s-1.png)
 
-**D.s-2**
+2. Enter the folder name ('Drive-2') and click ‘Save.’
 
-Enter the folder name ('Drive-2') and click ‘Save.’
+![Ds](images/D.s-2.png)
 
-**D.s-3**
+3. The new folder will be listed on the drive.
+![Ds](images/D.s-3.png)
 
-The new folder will be listed on the drive.
+4. Then, go to the test case page and select ‘Download file.’
 
-**D.s-4**
+![Ds](images/D.s-4.png)
 
-Then, go to the test case page and select ‘Download file.’
+5. Click the ‘Download File’ step, enter the path including the new folder name ('Drive-2') and the file name in the definition field, then click ‘Save’.
 
-**D.s-5**
+![Ds](images/D.s-5.png)
 
-Click the ‘Download File’ step, enter the path including the new folder name ('Drive-2') and the file name in the definition field, then click ‘Save’.
+Here, the folder name is **'Drive-2**' and the file name is **'1.1-MB-1.jpg**', the path will be **'Drive-2/1.1-MB-1.jpg**'.
 
-Here, the folder name is **'Drive-2**' and the file name is **'1.1-MB-1.jpg**', the path will be
+6. Click ‘Run’ to execute the test case and click the download button to download the file.
 
-**'Drive-2/1.1-MB-1.jpg**'.
+![Ds](images/D.s-6.png)
 
-**D.s-6**
+7.Return to the drive page, and click on the ‘Drive-2’ folder to verify that the downloaded file is stored correctly.
 
-Click ‘Run’ to execute the test case and click the download button to download the file.
-
-**D.s-7**
-
-Return to the drive page, and click on the ‘Drive-2’ folder to verify that the downloaded file is stored correctly.
-
-**D.s-8**
+![Ds](images/D.s-7.png)
 
 The downloaded file should be correctly stored in the ‘Drive-2’ folder.
+
+![Ds](images/D.s-8.png)
+
