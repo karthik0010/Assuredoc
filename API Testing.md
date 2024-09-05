@@ -6,14 +6,16 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
 
 **Creating folder**
  1. Click on '**+**' button
-
+ 2. Click on new folder
+ 
  ![api1](/images/api1.png)
 
- 2. Click on new folder
  3. Enter folder name and select parent folder
  4. Click on Create
 
 ![api2](/images/api2.png)
+
+Created folder will be displayed on the left hand side.
 
 ![ap3](/images/api3.png)
 
@@ -33,10 +35,11 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
 **Creating sub folder**
  1. Click on kebab button of the folder
  2. Click on new folder
- 3. Enter folder name and select parent folder
- 4. Click on Create
 
 ![api6](/images/api6.png)
+
+ 3. Enter folder name and select parent folder
+ 4. Click on Create
 
 **Deleting folder**
  1. Click on the kebab button near the created folder
@@ -55,24 +58,27 @@ AssureQA enables you to create, execute, and manage API tests within the platfor
  1. Click on the kebab button on the folder
  2. Select "new request" from options
  3. Enter request name
- 4. Click on the request, request editor will be displayed on the right.
+ 4. Click on the create
  
  ![api9](/images/api9.png)
- 
+
+ Request editor will be displayed on the right.
+
  ![api10](/images/api10.png)
 
 **Saving a new request to existing folder**
  
  1. Click on the '+' at the top right corner
- 2. Click on save
  
  ![Api11](/images/api11.png)
- 
+
+ 2. Click on save
+
  ![api12](/images/api12.png)
  
- 3. Enter request name
- 4. Select folder by clicking on the folder name
- 5. Click on save, saved request will be displayed inside the folder.
+ 4. Enter request name
+ 5. Select folder by clicking on the folder name
+ 6. Click on save, saved request will be displayed inside the folder.
 
 ![api13](/images/api13.png)
 
