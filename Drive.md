@@ -66,7 +66,8 @@ Deleted file will disappear from the page.
 
 **Create Test step for Downloading File**
 
-Inorder to automate the file download action in AssureQA, the drive acts as storage for the downloaded file user need to mention the file path at the definition field of "download file" keyword. User should be able to download this uploaded file, follow these steps:
+In AssureQA, the 'DownloadFile' keyword is used to automate file downloads.To use this keyword, you need to specify the file path where the file will be saved.
+The drive will play a major role in this case. The steps below will tell you the role of drive in the downloadfile keyword:
 
 **D.s-1**
 
