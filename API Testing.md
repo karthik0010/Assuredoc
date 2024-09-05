@@ -295,7 +295,7 @@ Environment variables in Assureqa are used to manage dynamic data and simplify t
 
 ![api33](/images/api33.png)
 
-11. Go to request, paste the enviroment variable in the url field in the form: {{variablename}}.
+11. Go to request, paste the environment variable in the url field in the form: {{variablename}}.
 12. If the environment is not selected, the variable remains in red color. To select environment, click on "no environment" dropdown button and select one from the list.
 
 ![api34](/images/api34.png)
