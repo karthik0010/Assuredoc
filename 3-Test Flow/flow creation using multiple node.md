@@ -28,6 +28,8 @@ User can use various node such as suite node, delay, condition, and email node.
 > The condition option will only be enabled under a suite node. Ensure that you've added a suite node before attempting to add a condition node.
 
 <br>
+
+
 ![flow](./TestFlowImages/E6.png)
 
 7. To add a mail node, choose the action from the dropdown menu and select the email option 
