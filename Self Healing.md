@@ -6,7 +6,7 @@ AssureQA leverages AI to identify and resolve script failures caused by unexpect
 
 To demonstrate this, let's take a dynamic site in which the elements inside this site are keep changing. Assume that we need to make a click on a button called "Hotels" and it's locator, say id="hotel1" is changing after some time.
 
-![Self Healing](images/scr2.png)
+![Self Healing](images/scr2.jpg)
 
 1. Copy the url of this site and paste it on the recorder page.
 2. Start recording the events like click on the "Hotels" button.
@@ -24,7 +24,7 @@ At this time, the test case will be passed.
 
 ![Self Healing](images/scr5.png)
 
-Assume that now that locator value has been changed.
+Assume that now that locator value has been changed , like changed to id="hotel2".
 
 ![Self Healing](images/scr6.png)
 
@@ -35,3 +35,5 @@ But without making any changes to the saved locators, we just rerun the testcase
 If script healing had happened, then the element on which the action performed will be marked with a red rectangular box in the screenshot.
 
 ![Self Healing](images/scr8.png)
+
+In this way, Assureqa's script healing perform the automatic maintenance and correction of test scripts that break due to changes in the application under test.
