@@ -1,6 +1,6 @@
 **Flow creation using multiple node**
  
-User can use various node such as various nodes such as the suite node, delay, condition, and email node. 
+User can use various node such as suite node, delay, condition, and email node. 
 1. Create a flow using suite node. 
 
 ![flow](./TestFlowImages/E1.png)
@@ -14,7 +14,6 @@ User can use various node such as various nodes such as the suite node, delay, c
 ![flow](./TestFlowImages/E3.png)
 
 4. Click on the delay node, adjust the slider to the desired time, and the duration will be displayed on the node. 
- note: The condition option will only be enabled under a suite node. Ensure that you've added a suite node before attempting to add a condition node.
 
 ![flow](./TestFlowImages/E4.png)
 
@@ -23,6 +22,8 @@ User can use various node such as various nodes such as the suite node, delay, c
 ![flow](./TestFlowImages/E5.png)
 
 6. Condition node decide the direction of flow execution based on the success or failure of the preceding suite node. If the primary suite node succeeds, then flow proceeds to the "Passed" condition or if it fails then it's  directs to the "Failed" condition
+ 
+note: The condition option will only be enabled under a suite node. Ensure that you've added a suite node before attempting to add a condition node.
 
 ![flow](./TestFlowImages/E6.png)
 
