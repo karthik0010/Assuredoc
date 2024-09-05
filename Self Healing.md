@@ -28,6 +28,10 @@ Assume that now that locator value has been changed.
 
 ![Self Healing](images/scr6.png)
 
-But without making any changes to the saved locators, we just rerun the testcase. Due to script healing feature, the step with changed locator will be executed successfully. If script healing had happened, then the element on which the action performed will be marked with a red rectangular box in the screenshot.
+But without making any changes to the saved locators, we just rerun the testcase. Due to script healing feature, the step with changed locator will be executed successfully. 
 
 ![Self Healing](images/scr7.png)
+
+If script healing had happened, then the element on which the action performed will be marked with a red rectangular box in the screenshot.
+
+![Self Healing](images/scr8.png)
