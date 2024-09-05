@@ -2,6 +2,8 @@
  
 User can use various node such as various nodes such as the suite node, delay, condition, and email node. 
 1. Create a flow using suite node. 
+
+
 2. Fill the necessary fields, such as test case name, browser, environment, and version, and  add the test cases.
 3. To add a delay node, click the plus button and choose the delay node from the dropdown  list
 4. Click on the delay node, adjust the slider to the desired time, and the duration will be displayed on the node. 
