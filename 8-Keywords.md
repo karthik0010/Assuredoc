@@ -37,7 +37,7 @@ AssureQA is a keyword-driven framework, featuring unique keywords that replicate
 
 A key feature provided by AssureQa is the "For Loop." As the name suggests, it allows users to iterate a set of test steps with multiple data inputs, thereby enhances the test coverage and reduce maintenance efforts.
 
-To use the for loop in a testcase, there must be a _shared test, dataset and variable_ inputs. Test steps which’re expected to be iterated must be grouped to form a shared test. Then add variables to the required test steps and the same variables must be added to a dataset. Ok, then let’s see how these processes can be done step by step.
+To use the for loop in a testcase, there must be a [Creating Reusable Steps](), [Dataset]() and [Variables]() inputs. Test steps which’re expected to be iterated must be grouped to form a shared test. Then add variables to the required test steps and the same variables must be added to a dataset. Ok, then let’s see how these processes can be done step by step.
 
 **Adding ‘For Loop’ to the testcase**
 
@@ -80,7 +80,7 @@ The set of steps within the shared test that are added in the for loop will be r
 **Executing a Testcase having For loop**
 
 Just as we know how to execute a test case or test flow, we can execute a test case with the ‘for loop’ in the same ways. Click the run button after selecting the desired environment, browser, and its version, or use the default settings if preferred. Executing this testcase inside flow also will also be normal manner.
-_Link-running testcase, flow execution_
+Refer [Running Test Case](), [Running a Flow]() .
 
 **For Loop’s Report View-Unit report and Flow report**
 
