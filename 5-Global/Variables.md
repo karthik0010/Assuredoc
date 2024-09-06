@@ -23,7 +23,7 @@ It will opens to a new dialog box which will list all the available built-in fun
 
 Selected built-in function will appear on the definition field, then click on create button to complete the process. 
 
-![var5](/VariablesImage/var5.png)
+![var5](/VariablesImage/v5a.png)
 
 Multiple inputs can be utilized in the definition field according to the user preference.
 
@@ -52,6 +52,7 @@ When we click on the 'Length of string' field, up-down arrow buttons will appear
 Expected outcome based on input will be displayed as 'example'.
 
 ****Randomalphanum()****
+
 Randomalphanum refers to a function that generates alphanumeric characters randomly, depending on the length specified by the user for the string.
 
 Users can give desired number as input in the "Length of string" field. 
@@ -150,10 +151,9 @@ AssureQA also allows the users to  update and delete the created variables.
 ![var19](/VariablesImage/var19.png)
 
  3. Click on update, a pop-up showing variable editor will be displayed.
+ 4. Change variable name or value, then click on update button.
 
 ![var20](/VariablesImage/var20.png)
-
- 4. Change variable name or value, then click on update button.
 
 **Deleting variables**
 
@@ -190,7 +190,7 @@ Inside keyword definition field:
 
 Inside locator field:
 
- 1. In  Test Case editor page, click on the step which will open thestep config. 
+ 1. In  Test Case editor page, click on the step which will open the step config. 
  2. Click on '+' button near Locator section.
  3. Click on new definition.
 
