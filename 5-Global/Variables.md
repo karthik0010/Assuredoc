@@ -55,7 +55,7 @@ Randomalphanum refers to a function that generates alphanumeric characters rando
 
 Users can give desired number as input in the "Length of string" field. 
 
-![var9]()
+![var9](/VariablesImage/var9.png)
 
 When we click on the 'Length of string' field, up-down arrow buttons will appear which helps the user to increase/decrease the value at the field.
 
