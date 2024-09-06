@@ -30,5 +30,5 @@ If you wish to delete or update the Schedule name, Click on the three dots and s
 
 ![FS 6](/images/FS%206.png)
 
-All the schedules which are active will be Executed on the Specified time and can be accesed in **Schedule Reports** page
+All the schedules which are active will be Executed on the Specified time and can be accesed in [Schedule Reports]() page
 
