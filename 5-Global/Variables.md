@@ -13,7 +13,7 @@ A dialog box will appear, prompting the user to input the variable name and its 
 
 ![var2](/VariablesImage/v2a.png)
 
-To create a variable using a built-in function, open the "Create Variable" pop-up, click on the "Definition" field, and then click the "f" button. 
+To create a variable using a built-in function, open the "Create Variable" pop-up, click on the "Definition" field, and then click the "*f*" button. 
 
 ![var3](/VariablesImage/v3a.png)
 
