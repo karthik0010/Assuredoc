@@ -13,11 +13,11 @@
  ![d1](/DatasetImages/d1.png)
 
  4. Type a dataset name
-
- ![d2](/DatasetImages/d2.png)
-
+ 
  5. Click on create
  
+ ![d2](/DatasetImages/d2.png)
+
  **Adding override values manually**
 
  6. Click on add row, select desired variables
@@ -28,11 +28,11 @@
  
  ![d5](/DatasetImages/d5.png)
 
- 8. To add built-in function, click on the definition field of override value column, click on '*f*' button,click on builtin functions, select required function, fill all fields and 
-   
- then click on add.
+ 8. To add built-in function, click on the definition field of override value column, click on '*f*' button,click on builtin functions, select required function, fill all fields and then click on add.
  
  ![d6](/DatasetImages/d6.png)
+
+ Added function will be displayed on the field.
  
  ![d7](/DatasetImages/d7.png)
  
@@ -69,18 +69,19 @@
  16. Click on upload file box and choose the edited file from computer 
  
  ![d14](/DatasetImages/d14.png)
- 
+
+ 17. Click on upload button.
  ![d15](/DatasetImages/d15.png)
  
- 17. Click on upload button, new override value columns will be added or value will be filled into the existing columns based on the edits made on the csv.
+ New override value columns will be added or value will be filled into the existing columns based on the edits made on the csv.
+
+ ![d16](/DatasetImages/d16.png)
  
  18. Click on update.
 
- ![d16](/DatasetImages/d16.png)
-
  **Adding Dataset to Test case**
 
- We can use dataset in two ways inside a testcase. One way is applying it directly to the testcase and other way is applying it only to the shared steps i.e, via For Loop. First method's steps are mentioned below and for the other one, please refer 'for loop' section.
+We can use dataset in two ways inside a testcase. One way is applying it directly to the testcase and other way is applying it only to the shared steps i.e, via For Loop. First method's steps are mentioned below and for the other one, please refer 'for loop' section.
 
  1. Goto test case page.
  
