@@ -4,17 +4,18 @@
 Variables are containers for storing data values. Variables are a highly advantageous feature in Assureqa. Employing variables in your test cases eliminates the necessity of duplicating test cases, resulting in significant time saving. Users have the ability to create variables that hold diverse data types, encompassing plain text, as well as built-in functions for generating random numbers, randomalpha, randomalpha number, customdate, customtime, range and increment.
 
 **Creating variables**
+
 Go to Global, click on 'Create Variable'.
 
 ![Var1](/VariablesImage/var1.png)
 
 A dialog box will appear, prompting the user to input the variable name and its definition. The definition can be plaintext or built-in function. The plaintext may include numbers, alphabetic characters, special characters, etc., based on the user's choice. Once both the variable name and definition are entered, the user can proceed by clicking the "create" button.
 
-![var2](/VariablesImage/var2.png)
+![var2](/VariablesImage/v2a.png)
 
-To create a variable using a built-in function, open the "Create Variable" pop-up, click on the "Definition" field, and then click the "</>" button. 
+To create a variable using a built-in function, open the "Create Variable" pop-up, click on the "Definition" field, and then click the "f" button. 
 
-![var3](/VariablesImage/var3.png)
+![var3](/VariablesImage/v3a.png)
 
 It will opens to a new dialog box which will list all the available built-in functions such as random numbers, random alpha, random alphanumber, custom date, custom time, and range. Users can choose the desired function based on their preferences. Once the desired built-in function is selected, proceed by clicking the "add" button.
 
@@ -26,7 +27,7 @@ Selected built-in function will appear on the definition field, then click on cr
 
 Multiple inputs can be utilized in the definition field according to the user preference.
 
-![var6](/VariablesImage/var6.png)
+![var6](/VariablesImage/v6a.png)
 
 **Types of Built-in function**
 
