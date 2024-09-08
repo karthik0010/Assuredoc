@@ -14,8 +14,8 @@ In Dashboard you will find these!
 
 - **Active Schedule**: How many schedules are currently running.
 
-- **Total Runs**: A bar chart showing how many tests ran.
+- **Total Runs**: A bar chart showing how many unit and flow executed.
 
 - **Executions**: A pie chart showing how much time you’ve saved, and what’s been completed, terminated, or aborted.
 
-- **Recent Executions**: In recent Execution you will find the list of last flow runs 
+- **Recent Executions**: In recent Execution, you will find the list of latest flow runs 
